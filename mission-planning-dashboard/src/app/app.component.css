@@ -1,4 +1,13 @@
+
 .box {
     display: flex;
     padding: 10px;
- }
+    background-color: #e498e0;
+    font-family: Snell Roundhand, cursive;
+}
+.header-img{
+    /* font-family: fantasy; */
+    background-image: url(/assets/mars-12.jpg);
+    /* background-color: peachpuff; */
+}
+ 
